@@ -1,0 +1,14 @@
+|ENCODERFILE
+din[0] => Decoder0.IN7
+din[1] => Decoder0.IN6
+din[2] => Decoder0.IN5
+din[3] => Decoder0.IN4
+din[4] => Decoder0.IN3
+din[5] => Decoder0.IN2
+din[6] => Decoder0.IN1
+din[7] => Decoder0.IN0
+dout[0] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+dout[1] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+dout[2] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+
+
